@@ -7,6 +7,8 @@ combines the elegance of chaos theory with the visual appeal of computer graphic
 Specifically, the project focuses on simulating four prominent attractors: Bouali attractor, 
 Lorenz attractor, Halvorsen attractor, and Chen-Lee attractor.
 
+It was a group project. My three amazing friends, Shusmita Anjum Aziz, Mirza Aysha Rahman Urme, MD. Jahidul Islam, and I, created this project for our Computer Graphics course offered by our university.
+
 #### Press L to switch to Lorenz Attractor.
 #### Press C to switch to Chen-Lee Attractor.
 #### Press H to switch to Halvorsen Attractor.
