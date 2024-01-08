@@ -1,5 +1,5 @@
 # Exploring Chaos
- A visual representaion of 4 chaotic attractors.
+ A visual representation of 4 chaotic attractors.
 
 Chaos theory, a captivating branch of mathematics, explores the intricate and 
 unpredictable behavior of dynamic systems. This project, titled "Exploring Chaos," 
